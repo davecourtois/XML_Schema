@@ -2,7 +2,7 @@
 
 ## Desctiption
 
-A complete XSD (XML Schema) parser to parse any schema. XML schema 
+A complete XSD (XML Schema) parser to parse any schema.
 
 ## usage
 
