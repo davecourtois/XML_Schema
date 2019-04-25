@@ -1,4 +1,4 @@
-package XML_Schemas
+package XML_Schema
 
 import (
 	"encoding/xml"
